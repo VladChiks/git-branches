@@ -1,4 +1,4 @@
-
+git merge
 
 1. # Ветки в Git
 
